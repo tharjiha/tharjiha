@@ -7,7 +7,7 @@
 
 ## 🔗 SOCIALS:
 📎 [portfolio](https://tharjiha.github.io/)<br>
-📇 [linkedin!!](https://linkedin.com/in/https://www.linkedin.com/in/tharjiha-suthekara/)<br>
+📇 [linkedin!!](https://www.linkedin.com/in/tharjiha-suthekara/)<br>
 📧 [email](mailto:tharjiha@gmail.com) 
 
 
