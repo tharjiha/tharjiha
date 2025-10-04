@@ -28,7 +28,6 @@
 ![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logoColor=white)
 
 ### frameworks & libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
