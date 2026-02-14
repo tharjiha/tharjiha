@@ -1,7 +1,7 @@
 # THARJIHA SUTHEKARA
 
 🎓 cs & statistics student @ **university of toronto**  
-💻 aspiring **software / data engineer**  
+💻 aspiring **data engineer**  
 📊 passionate about building **data-driven solutions** & impactful projects  
 
 
